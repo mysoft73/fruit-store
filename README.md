@@ -1,11 +1,13 @@
 # README
 
+react_rails gem is used for integrating react and rails.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.5.1
 
 * System dependencies
 
@@ -22,3 +24,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+how to run on local:
+1. git clone
+2. cd fruit-store
+3. bundle
+4. rake db:setup
+5. rails s
